@@ -19,7 +19,7 @@ Please submit a zipped folder containing your c# console application and the URL
 
 ## Rubric Criteria
 * Program successfully compiles and runs
-* Program properly declares variables including applicable constant variables (local and global variables declared, input/output).
+* Program properly declares variables including applicable constant variables (local and global variables declared, utilization of ref and out parameters).
 * Properly defined overloaded methods, methods have correct arguments/declared parameters; method/module header and return statement is correct;
 * Logic of main method is correctly coded with consideration of which method needs to be invoked
 * Logic for overloaded method/module is correctly coded with consideration of proper calculation
